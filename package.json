@@ -1,0 +1,24 @@
+{
+  "name": "transpile_es6",
+  "version": "1.0.0",
+  "description": "Beginning work on es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6",
+    "javascript"
+  ],
+  "author": "Stanley Yang",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-traceur": "^0.17.1",
+    "gulp-typescript": "^2.7.7",
+    "gulp-uglify": "^1.2.0"
+  }
+}
